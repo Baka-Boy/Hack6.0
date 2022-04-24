@@ -20,9 +20,9 @@ This web application integrates that feature along with the danger index of a pa
 
 ## Features
 The following are the features of our website:
-1.Safe Routing: A map that provides the safety index for  multiple paths
-2.Retrieval of location coordinates: A woman can retrieve their current location coordinates
-3.Location sharing: A woman can share her current location coordinates through any convenient application
+  * Safe Routing: A map that provides the safety index for  multiple paths
+  * Retrieval of location coordinates: A woman can retrieve their current location coordinates
+  * Location sharing: A woman can share her current location coordinates through any convenient application
 
 ## Tech-Stack
 * Data analysis and visualization: Python
