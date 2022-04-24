@@ -1,51 +1,42 @@
-# Hack6.0
+# Confidænt
 
-### General Instructions:
-Push to this repository atleast once after you are done with a specific task. It is recommended you push frequently so that in the unfortunate case of you misplacing/deleting your code or any other circumstance where you are unable to access your files, you can always pull from this repository. 🥳🥳🥳
+Confidænt is a women safety web application which generates the safest route of travel from a woman’s current location to any destination using the Google Maps API.
+Although Google Maps shows the shortest path from a starting point to a destination, it does not always show the safest path.
+This web application integrates that feature along with the danger index of a path to map the safest route possible. We assess this 'Danger Index' by using unsupervised machine learning on historical crime data/records. 
 
-Creating a Habit of pushing code will also help in easier collaborations between various people. 🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑
+The web application also has a provision to allow women to retrieve their location coordinates, and share them with her contacts. 
 
-**How to use this repository:** ❓❓❓❓
-1) [Install GIT](https://git-scm.com/downloads "Download GIT for Windows, Mac or Linux")
-2) Open the Terminal/Command Line/PowerShell on your machine.
-3) Decide upon a directory you want your code to live in.
-4) Use the following command to change your directory inside your Terminal to your directory choice:
-```
-cd YOUR_DIRECTORY_PATH
-```
-5) Enter the following command now to set your global variables for your github id:
-Set your username
-```
-git config --global user.name "YOUR ID"
-```
-Confirm you have set the correct Username
-```
-git config --global user.name
-```
-Now set your Github email ID to commit to
-```
-git config --global user.email "email@example.com"
-```
-Confirm you have set the correct id
-```
-git config --global user.email
-```
-Make sure you have added the email in your Github Emails. For further information, refer to this [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/adding-an-email-address-to-your-github-account "Add Email Address to your Github account")
+This app is specifically curated to reduce the possibility of traveling through areas with known incidents of crime against women or high crime rates in general.
 
-6) From the top right hand corner, under the Green Box called "Code" with an arrow, copy the link for this repository(OR copy the next command).
-7) Enter the following in your Terminal Window to get a copy of the repository on your local machine.
-```
-git clone https://github.com/FalloutBoy379/TKR2022Embedded.git
-```
-8) Put your code and any other files in the folder they belong in.
-9) When it is time to push your changes to Github, go through the following.
-```
-git add --all
-git commit -m 'YOUR COMMIT MESSAGE'
-git push origin main
-```
-⚠️⚠️Note that this is not true for all commmits and pushes. Do not push to main if you are unsure about stuff, it could spoil things for all your friends and seniors. ⚠️⚠️
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [About](#about)
+- [Features](#features)
+- [Team](#team)
+  
+
+## About
+* Confidænt is a women safety web application which generates the safest route of travel from a woman’s current location to any destination using the Google Maps API.
+* Although Google Maps shows the shortest path from a starting point to a destination, it does not always show the safest path.
+This web application integrates that feature along with the danger index of a path to map the safest route possible. We assess this 'Danger Index' by using unsupervised machine learning on historical crime data/records. 
+* The web application also has a provision to allow women to retrieve their location coordinates, and share them with her contacts. 
+* This app is specifically curated to reduce the possibility of traveling through areas with known incidents of crime against women or high crime rates in general.
+
+## Features
+The following are the features of our website:
+1.Safe Routing: A map that provides the safety index for  multiple paths
+2.Retrieval of location coordinates: A woman can retrieve their current location coordinates
+3.Location sharing: A woman can share her current location coordinates through any convenient application
 
 
-For a detailed tutorial on how to use Git and it's importance: Check out this [Video](https://youtu.be/DVRQoVRzMIY "Importance of using GIT")
- 
+## Team
+
+
+### Members:
+| Sr No. | Name               | E-mail                       | git-profile     |
+| -------| -------------------| -----------------------------| ----------------|
+| 1.     | Diti Divekar       |diti.divekar@somaiya.edu      | DITI2209        |
+| 2.     | Shriya Pingulkar   |shriya.pingulkar@somaiya.edu  | shriya02-coder  |                         
+| 3.     | Surin Shah         |surin.shah@somaiya.edu        | SurinShah       |
+| 4.     | Shreyas Panchikatil|p.susheelkumar@somaiya.edu.   | Baka-boy                |
+
