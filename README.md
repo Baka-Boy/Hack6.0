@@ -7,6 +7,7 @@ Confidænt is a women safety web application which generates the safest route of
 - [Table of Contents](#table-of-contents)
 - [About](#about)
 - [Features](#features)
+- [Tech-Stack](#tech-stack)
 - [Team](#team)
   
 
@@ -23,6 +24,14 @@ The following are the features of our website:
 2.Retrieval of location coordinates: A woman can retrieve their current location coordinates
 3.Location sharing: A woman can share her current location coordinates through any convenient application
 
+## Tech-Stack
+* Data analysis and visualization: Python
+* API : Google Maps API (for routing), Web Share API (for location sharing)
+* UI DESIGN : Figma, Canva
+* FRONT-END WEB DEVELOPMENT : HTML5, CSS3, JavaScript
+* Server side : JavaScript
+* Database connectivity  : MySQL, PHP
+
 
 ## Team
 
@@ -33,5 +42,5 @@ The following are the features of our website:
 | 1.     | Diti Divekar       |diti.divekar@somaiya.edu      | DITI2209        |
 | 2.     | Shriya Pingulkar   |shriya.pingulkar@somaiya.edu  | shriya02-coder  |                         
 | 3.     | Surin Shah         |surin.shah@somaiya.edu        | SurinShah       |
-| 4.     | Shreyas Panchikatil|p.susheelkumar@somaiya.edu.   | Baka-boy                |
+| 4.     | Shreyas Panchikatil|p.susheelkumar@somaiya.edu.   | Baka-boy        |
 
