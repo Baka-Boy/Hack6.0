@@ -1,12 +1,7 @@
 # Confidænt
 
 Confidænt is a women safety web application which generates the safest route of travel from a woman’s current location to any destination using the Google Maps API.
-Although Google Maps shows the shortest path from a starting point to a destination, it does not always show the safest path.
-This web application integrates that feature along with the danger index of a path to map the safest route possible. We assess this 'Danger Index' by using unsupervised machine learning on historical crime data/records. 
 
-The web application also has a provision to allow women to retrieve their location coordinates, and share them with her contacts. 
-
-This app is specifically curated to reduce the possibility of traveling through areas with known incidents of crime against women or high crime rates in general.
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
